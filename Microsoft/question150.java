@@ -1,6 +1,6 @@
 package Microsoft;
 import java .util.*;
-public class leetcoad150 {
+public class question150 {
     public static void main(String args[])
     {
         String s[]={"2","1","+","3","*"};
